@@ -1,0 +1,1 @@
+This repository contains a bug report and solution for a React Native version mismatch error. The bug occurs when a library is incompatible with the current React Native version. The solution involves updating the library or downgrading React Native to a compatible version.
